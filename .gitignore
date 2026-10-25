@@ -1,0 +1,16 @@
+.env
+secrets.h
+config_local.h
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+build/
+.cache/
+arduino_build_*/
+arduino_cache_*/
+*.db
+*.sqlite
+.vscode/
+.idea/
