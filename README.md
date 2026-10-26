@@ -67,5 +67,5 @@ La ESP32-S3 y la pantalla LCD fueron probadas durante el montaje. Los LED, el bu
 
 ## Institucion
 
-Colegio Jorge Gaitan Cortes - Tecnologia - Curso 801
+Colegio Jorge Gaitan Cortes - Tecnologia - Curso 801.
 - Proyecto desarrollado por el Equipo de Trabajo de 801.
